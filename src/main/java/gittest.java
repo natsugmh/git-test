@@ -8,5 +8,6 @@ public class gittest {
         System.out.println("change file");
         System.out.println("hello git"
         );
+        System.out.println("pull test");
     }
 }
